@@ -1,1 +1,2 @@
-Domingo 18 # PrimerProyecto
+# primerproyecto
+Primero proyecto a realizar!
